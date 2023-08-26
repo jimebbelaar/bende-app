@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.site-layout-content {
+  padding: 1rem;
+  background: #fff;
+  min-height: 100dvh;
+}
+
+
+
+.question-container {
+  margin-top: 20px;
+}
+
+.timer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.volgende {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
